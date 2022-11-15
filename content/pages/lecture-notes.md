@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: Lectures and workshops are the primary way that the material is taught.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 3e54411e-900d-275d-6afc-29b24959ee2b
+video_metadata:
+  youtube_id: null
 ---
 
 Lectures and workshops are the primary way that the material is taught.

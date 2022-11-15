@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: e1fa88d6-2b48-838f-acce-59839073406b
+video_metadata:
+  youtube_id: null
 ---
 
 Handouts
@@ -35,18 +38,18 @@ Gyro Assembly ({{% resource_link fbebde6f-734f-97dc-94e0-56f4629c6d69 "PDF" %}})
 Code
 ----
 
-Handyboard Test Suite ([C](./resolveuid/8f9b70b89812bf8f31cb806c05952c61))
+Handyboard Test Suite ({{% resource_link "8f9b70b8-9812-bf8f-31cb-806c05952c61" "C" %}})
 
-Expansion Board Test Suite ([C](./resolveuid/e082e40b2eca1cc342d87178e9175677))
+Expansion Board Test Suite ({{% resource_link "e082e40b-2eca-1cc3-42d8-7178e9175677" "C" %}})
 
-Gyro Code ([C](./resolveuid/58733813e7437bfe9f32e75788988d38)) (Courtesy of Howard Samuels. Used with permission.)
+Gyro Code ({{% resource_link "58733813-e743-7bfe-9f32-e75788988d38" "C" %}}) (Courtesy of Howard Samuels. Used with permission.)
 
 Datasheets
 ----------
 
-zvn4206a FET (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.diodes.com/datasheets/ZVN4206A.pdf))
+zvn4206a FET ([PDF](http://www.diodes.com/datasheets/ZVN4206A.pdf))
 
-HandyBoard (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-robotics.cs.umass.edu/~grupen/503/HandyBoard/HandyBoardManual.pdf))
+HandyBoard ([PDF](http://www-robotics.cs.umass.edu/~grupen/503/HandyBoard/HandyBoardManual.pdf))
 
 Sharp Distance Sensor 2Y0A02 ([PDF](http://sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a02_e.pdf))
 

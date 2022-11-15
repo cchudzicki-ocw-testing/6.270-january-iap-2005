@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section contains all assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 2edcc2fe-e898-35cd-a003-cf31180b6881
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains all assignments for the course.
